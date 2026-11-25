@@ -22,3 +22,4 @@ This is a Vite + React + Bootstrap front-end web application built for **Review 
 - **Centralized Portfolio Data**: Managed inside `src/data/portfolioData.js`.
 - **Responsive UI**: Built with Bootstrap 5 grid utilities.
 - **Interactive Features**: Dynamic project category filtering and quick-contact suggestion auto-fill.
+# personal-portfolio
